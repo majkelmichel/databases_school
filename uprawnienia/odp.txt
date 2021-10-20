@@ -1,0 +1,10 @@
+1.
+Oracle - SYS
+MySQL - root
+Postgres - postgres
+2.
+Nie, gdyż może to prowadzić do niepożądanego dostępu do danych.
+3.
+Tak.
+4.
+Żeby ograniczyć im dostęp do danych i uniemożliwić niepożądane ich wykorzystanie.
